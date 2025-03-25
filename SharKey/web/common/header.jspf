@@ -1,0 +1,5 @@
+<%@page pageEncoding="UTF-8"%>
+<header class="col-12">
+    <img src="img/SharKey_Logo.png" alt="Logo" id="logo"/>
+    <h1><a href="home" id="title">SharKey</a></h1>
+</header>

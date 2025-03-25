@@ -1,0 +1,26 @@
+<%@page pageEncoding="UTF-8"%>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/modifyText.js"></script>
+
+<aside class="col-3">
+
+    <div id="font_changer">
+        <button id='more' class="round_button">A+</button>
+        <button id='default' class="round_button">A</button>
+        <button id='less' class="round_button">A-</button>
+    </div>
+    
+    <article id="messaggio_attenzione">
+        <h3 class="adjustable_H"> ATTENZIONE !</h3>
+        <p class="adjustable_P">
+            Se hai avuto problemi con un acquisto, oppure hai notato degli annunci sospetti non esitare a contattarci!
+            Scrivici alla mail presente a fondo pagina nel caso in cui sia necessario segnalare un utente, per avere un rimborso su un acquisto che si è rivelato una truffa, oppure per segnalare bug del sistema.
+            Il team di SharKey è sempre a disposizione dei propri clienti.
+        </p>
+    </article>
+    
+    <div class="ad">
+        <img src="img/ad_fallout.jpg" alt="pubblicità" width="90%" height="100%">
+    </div>
+
+</aside>

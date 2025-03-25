@@ -1,0 +1,7 @@
+<%@page pageEncoding="UTF-8"%>
+<footer>
+    <p id="nome_gruppo"> Sito sviluppato dalla <b> Panic at The Cisco </b> srl </p>
+    <p id="componenti"> Michele Cocco, Alessio Giuseppe Muggittu, Anna Chiara Mameli <p>
+    <br>
+    <p id="mail"> sharkey@courvix.com </p>
+</footer>
