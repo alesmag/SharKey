@@ -20,7 +20,6 @@
 ## Table of Contents
 
 - [About the Project](#about-the-project)
-- [Usage](#usage)
 
 ## About the Project
 
