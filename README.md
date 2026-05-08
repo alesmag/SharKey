@@ -23,6 +23,6 @@
 
 ## About the Project
 
-SharKey is a group project developed by [Me](https://github.com/alesmag), [Anna Chiara Mameli](https://github.com/Pandanna) and [Michele Cocco](https://github.com/Scoccc) for the University of Cagliari. 
+SharKey is a group project developed by [Alessio Giuseppe Muggittu](https://github.com/alesmag), [Anna Chiara Mameli](https://github.com/Pandanna) and [Michele Cocco](https://github.com/Scoccc) for the University of Cagliari. 
 This project was developed thinking about a digital store for sharing videogame activation keys run by its own users. Users can be both buyers and sellers, buying digital keys from other users or even selling their own (consumer-to-consumer).
 SharKey's name has this very thought in mind, since also its name represents this concept, where "Shar" comes from "Sharing" and "Key" comes from the digital keys. 
